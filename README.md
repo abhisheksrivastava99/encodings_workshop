@@ -103,7 +103,7 @@ See the `requirements.txt` file for a complete list of dependencies.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
